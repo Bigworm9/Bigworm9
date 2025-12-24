@@ -7,10 +7,8 @@ I design secure, reliable, and scalable cloud infrastructure on AWS. My focus is
 ---
 
 ## 🌍 Current Focus
-- Architecting secure, resilient cloud infrastructure using AWS-native services  
-- Designing real-world AWS architecture diagrams and solutions  
-- Building reusable templates with Terraform for automation  
-- Enhancing observability and least-privilege access in every deployment
+- Designing and deploying infrastructure using AWS CDK (TypeScript) and Infrastructure as Code patterns  
+- Exploring AI/ML platforms on AWS (e.g., SageMaker) from an infrastructure and scalability perspective
 
 ---
 
@@ -37,6 +35,10 @@ Docker | Kubernetes (Exploring EKS)
 ---
 
 ## 📁 Featured Projects
+
+- **AWS CDK Serverless API (TypeScript)**  
+  Designed, deployed, and documented a serverless REST API using AWS CDK, API Gateway, and Lambda with CloudFormation-managed infrastructure.  
+  _[View on GitHub](https://github.com/Bigworm9/aws-cdk-serverless-api-typescript)_
 
 - **Serverless Task API w/ SQS & Lambda**  
   Re-architected a task system into a fully decoupled, scalable AWS-native solution.  
